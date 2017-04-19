@@ -1,0 +1,73 @@
+body {
+  padding-bottom: 15vh;
+}
+
+nav {
+  bottom: 0;
+  width: 100vw;
+  position: fixed;
+  background-color: rgba(10, 0, 0, 0.9);
+  height: 7vh;
+
+}
+
+.fa {
+  margin: 0 auto;
+}
+
+.navbar {
+  text-align: center;
+  margin-top: 1%;
+}
+
+.navbar a {
+  font-size: 18px;
+  text-decoration: none;
+  padding: 1%
+
+}
+
+.header {
+  background-image: url(http://orig07.deviantart.net/2983/f/2016/294/f/6/monster_mashup_by_cryovolcano-dalppqf.jpg);
+  /*background-image: url(/Users/Rocktell/Documents/portfolio/images/red.jpg);*/
+  background-color: #555;
+  background-position: top center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100vw;
+  /*position: absolute;*/
+}
+
+.title {
+  height: 100px;
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  margin-top: -70px;
+  color: #fafafa;
+  font-size: 65px;
+  text-align: center;
+}
+
+
+.work img {
+  /*max-width: 25vw;*/
+}
+
+.container {
+  margin-top: 5%;
+}
+/*
+.column {
+  margin-top: 10%;
+}
+
+#contact {
+  margin: 20% 0;
+}*/
+
+ul {
+  list-style-type: none;
+}
